@@ -1,0 +1,3 @@
+When in a company has a many copies of a database created in MS Access 2007, to have updated all of these copies, create a problem.
+
+The main idea is develop some libraries in VBA in order to connect to database center (MS SQL Server) and update all objects of MS Access Database described in the server.
